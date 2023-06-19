@@ -1,5 +1,5 @@
 import { keyframes, styled } from "styled-components";
-import { useWindowSize } from "../../utils/useWindowSize";
+import { useWindowSize } from "../../utils/UseWindowSize";
 
 function Orb() {
   const { width, height } = useWindowSize();
